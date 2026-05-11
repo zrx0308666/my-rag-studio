@@ -1,0 +1,6 @@
+{
+  "name": "RAG Lifecycle Lab",
+  "description": "An interactive visualization dashboard for the full lifecycle of Retrieval-Augmented Generation, featuring document chunking, embedding space visualization, and real-time retrieval logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

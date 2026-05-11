@@ -39,9 +39,9 @@ User Question: ${prompt}
 
 Answer:`;
 
-    // Using gemini-3.1-pro-preview for complex reasoning tasks as per skill
+    // Using gemini-3-flash-preview for free-tier text generation
     const response = await ai.models.generateContent({
-        model: "gemini-3.1-pro-preview",
+        model: "gemini-3-flash-preview",
         contents: [fullPrompt]
     });
 
